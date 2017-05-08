@@ -1,8 +1,10 @@
 # University of Texas at Austin
 ## CS378-IOS Mobile Development Spring 2017
 
+```
 1. HW1
 * Create and run an OSX Command Line application using Swift.
+```
 
 2. HW2
 * This will be an exercise in deﬁning and creating a simple iOS application with a single screen.
