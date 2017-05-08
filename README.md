@@ -28,7 +28,7 @@
   * Alert Controller
 ```
 ```
-5. HW5 ()
+5. HW5
 * This will be an exercise in using the following in an application:
   * Navigation Controller
   * Simple View Controller
@@ -37,21 +37,21 @@
   * Core Data
 ```
 ```
-6. HW6 ()
+6. HW6
  * This will be an exercise in using the following in an application:
    * Page View Controller
    * Page Control
    * UIImageView
 ```
 ```
-7. HW7 ()
+7. HW7
  * This will be an exercise in using gesture recognizers and simple animation.
 ```
 ```
-8. HW8 ()
+8. HW8
  * This will be an exercise in using notiﬁcations.
 ```
 ```
-9. HW9 ()
+9. HW9
  * This will be an exercise in creating a simple iWatch app. There is nothing to do on the iPhone app side.
 ```
