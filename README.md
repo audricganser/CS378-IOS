@@ -9,19 +9,19 @@
 
 3. HW3
 * This will be an exercise in creating an iOS application which includes:
-..* Navigation controller
-..* Table view controller
-..* Standard view controller
-..* Segue
-..* Autolayout
-..* constraints
+  * Navigation controller
+  * Table view controller
+  * Standard view controller
+  * Segue
+  * Autolayout
+  * constraints
 
 4. HW4
 * This will be an exercise in creating an iOS application which includes:
-..* Navigation controller
-..* Table View controller
-..* Custom Table View Cells
-..* Alert Controller
+  * Navigation controller
+  * Table View controller
+  * Custom Table View Cells
+  * Alert Controller
 
 * HW5 ()
 * HW6 ()
