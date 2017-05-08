@@ -1,14 +1,14 @@
 # University of Texas at Austin
 ## CS378-IOS Mobile Development Spring 2017
 
-* HW1
- * Create and run an OSX Command Line application using Swift.
+1. HW1
+* Create and run an OSX Command Line application using Swift.
 
-* HW2
- * This will be an exercise in deﬁning and creating a simple iOS application with a single screen.
+2. HW2
+* This will be an exercise in deﬁning and creating a simple iOS application with a single screen.
 
-* HW3
- * This will be an exercise in creating an iOS application which includes:
+3. HW3
+* This will be an exercise in creating an iOS application which includes:
   * Navigation controller
   * Table view controller
   * Standard view controller
@@ -16,15 +16,15 @@
   * Autolayout
   * constraints
 
-* HW4
- * This will be an exercise in creating an iOS application which includes:
+4. HW4
+* This will be an exercise in creating an iOS application which includes:
   * Navigation controller
   * Table View controller
   * Custom Table View Cells
   * Alert Controller
 
-* HW5 ()
-* HW6 ()
-* HW7 ()
-* HW8 ()
-* HW9 ()
+5. HW5 ()
+6. HW6 ()
+7. HW7 ()
+8. HW8 ()
+9. HW9 ()
