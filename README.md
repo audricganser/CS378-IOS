@@ -2,10 +2,10 @@
 ## CS378-IOS Mobile Development Spring 2017
 
 * HW1
-**Create and run an OSX Command Line application using Swift.
+..* Create and run an OSX Command Line application using Swift.
 
 * HW2
-**This will be an exercise in deﬁning and creating a simple iOS application with a single screen.
+..* This will be an exercise in deﬁning and creating a simple iOS application with a single screen.
 
 * HW3
 **This will be an exercise in creating an iOS application which includes:
